@@ -5,7 +5,7 @@ date:   2016-09-05 08:42:00 +0100
 
 ---
 
-![September 5]({{ site.url }}/assets/images/september-5.jpg)
+![September 5]({{ site.url | prepend:site.baseurl }}/assets/images/september-5.jpg)
 
 Sur le bateau! Direction SPAIN!
 

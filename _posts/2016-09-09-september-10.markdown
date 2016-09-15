@@ -5,7 +5,7 @@ date:   2016-09-09 22:29:00 +0100
 direction: rtl
 ---
 
-![September 9]({{ site.url }}/assets/images/september-9.jpg)
+![September 9]({{ site.url | prepend:site.baseurl }}/assets/images/september-9.jpg)
 
 كان هاتفي مغلقا اليوم كله سوى دقائق قليلة لذا لم استطع ان آخذ لكم صورة به، كل الصور قي آلة التصوير..
 

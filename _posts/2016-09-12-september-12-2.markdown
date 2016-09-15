@@ -5,7 +5,7 @@ date:   2016-09-12 16:09:00 +0100
 direction: rtl
 ---
 
-![September 12 (2)]({{ site.url }}/assets/images/september-12-2.jpg)
+![September 12 (2)]({{ site.url | prepend:site.baseurl }}/assets/images/september-12-2.jpg)
 
 في طريقي إلي طليطلة Toledo
 

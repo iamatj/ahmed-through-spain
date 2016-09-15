@@ -5,7 +5,7 @@ date:   2016-09-12 11:20:00 +0100
 direction: rtl
 ---
 
-![September 12]({{ site.url }}/assets/images/september-12.jpg)
+![September 12]({{ site.url | prepend:site.baseurl }}/assets/images/september-12.jpg)
 
 زعما غي أنتم لي عيدتو؟
 

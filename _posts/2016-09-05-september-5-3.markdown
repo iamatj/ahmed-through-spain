@@ -5,7 +5,7 @@ date:   2016-09-05 21:24:00 +0100
 direction: rtl
 ---
 
-![September 5]({{ site.url }}/assets/images/september-5-3.jpg)
+![September 5]({{ site.url | prepend:site.baseurl }}/assets/images/september-5-3.jpg)
 
 اليوم الاول من الرحلة!
 

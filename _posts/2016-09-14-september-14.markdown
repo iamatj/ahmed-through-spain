@@ -5,7 +5,7 @@ date:   2016-09-14 12:38:00 +0100
 direction: rtl
 ---
 
-![September 14]({{ site.url }}/assets/images/september-14.jpg)
+![September 14]({{ site.url | prepend:site.baseurl }}/assets/images/september-14.jpg)
 
 قصة البارحة.. مع صورة اليوم!
 

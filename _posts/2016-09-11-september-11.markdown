@@ -5,7 +5,7 @@ date:   2016-09-11 14:11:00 +0100
 direction: rtl
 ---
 
-![September 11]({{ site.url }}/assets/images/september-11.jpg)
+![September 11]({{ site.url | prepend:site.baseurl }}/assets/images/september-11.jpg)
 
 فرحة لا بأس بها بعد تعاسة مزدوجة، هل كنت ستفرح أيضا إن وجدتها جانب الطريق؟ في طريق صفراء قاحلة..
 

@@ -5,7 +5,7 @@ date:   2016-09-12 22:43:00 +0100
 direction: rtl
 ---
 
-![September 12 (3)]({{ site.url }}/assets/images/september-12-3.jpg)
+![September 12 (3)]({{ site.url | prepend:site.baseurl }}/assets/images/september-12-3.jpg)
 
 فندق البارحة كان رائعا، استحممت جيدا ونمت نوما لم أذق مثله منذ أيام..
 

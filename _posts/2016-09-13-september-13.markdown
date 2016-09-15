@@ -5,7 +5,7 @@ date:   2016-09-13 16:29:00 +0100
 direction: rtl
 ---
 
-![September 13]({{ site.url }}/assets/images/september-13.jpg)
+![September 13]({{ site.url | prepend:site.baseurl }}/assets/images/september-13.jpg)
 
 صورة البارحة، من طليطلة، علو أكثر من خمسة وعشرين مترا..
 

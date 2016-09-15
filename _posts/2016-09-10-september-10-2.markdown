@@ -5,7 +5,7 @@ date:   2016-09-10 18:41:00 +0100
 direction: rtl
 ---
 
-![September 10 (2)]({{ site.url }}/assets/images/september-10-2.jpg)
+![September 10 (2)]({{ site.url | prepend:site.baseurl }}/assets/images/september-10-2.jpg)
 
 أحمد لم يحصل على يوم جيد.. أحمد أخطأ في اختيار بعض الطرقات اليوم..
 

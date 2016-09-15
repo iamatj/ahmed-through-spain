@@ -5,7 +5,7 @@ date:   2016-09-08 21:38:00 +0100
 direction: rtl
 ---
 
-![September 8 (2)]({{ site.url }}/assets/images/september-8-2.jpg)
+![September 8 (2)]({{ site.url | prepend:site.baseurl }}/assets/images/september-8-2.jpg)
 
 في الصورة Lucas وأنا
 

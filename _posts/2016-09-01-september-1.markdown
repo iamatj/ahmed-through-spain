@@ -5,7 +5,7 @@ date:   2016-09-01 20:27:00 +0100
 direction: rtl
 ---
 
-![September 1]({{ site.url }}/assets/images/september-1.jpg)
+![September 1]({{ site.url | prepend:site.baseurl }}/assets/images/september-1.jpg)
 
 صورة مباشرة، شاطئ الرباط
 في طريق العودة من الدار البيضاء الى فاس!

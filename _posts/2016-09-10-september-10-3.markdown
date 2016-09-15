@@ -5,7 +5,7 @@ date:   2016-09-10 21:37:00 +0100
 direction: rtl
 ---
 
-![September 10 (3)]({{ site.url }}/assets/images/september-10-3.jpg)
+![September 10 (3)]({{ site.url | prepend:site.baseurl }}/assets/images/september-10-3.jpg)
 
 
 فرحة اليوم كانت عارمة، فرحة لا يساويها فرحة، لا أدري هل يستطيع أحد الإحساس بما أحسست، لكن أهديكم هذه القصة التي انا أيضا معجب بها، لست مغرورا، لا، أبدا، لكن اقرأ واحكم!
@@ -74,4 +74,4 @@ Please from where can i go to madrid?
 
 الحلقة السادسة!
 
-![September 10 (3) comments]({{ site.url }}/assets/images/september-10-3-comments.jpg)
+![September 10 (3) comments]({{ site.url | prepend:site.baseurl }}/assets/images/september-10-3-comments.jpg)
