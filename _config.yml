@@ -16,7 +16,7 @@
 title: Ahmed Through Spain
 email:
 description:
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ahmed-through-spain" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username:
 github_username:
