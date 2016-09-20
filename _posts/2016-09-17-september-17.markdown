@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "September 17"
+date:   2016-09-17 15:48:00 +0100
+direction: rtl
+---
+
+![September 17]({{ site.url | prepend:site.baseurl }}/assets/images/september-17.jpg)
+
+قولوا للريح أن تشتد وللغيوم أن تتجمع، للمطر أن يهطل وللدراجة أن تتوقف، مهما جرى، فإني بإذن الله مستمر!
