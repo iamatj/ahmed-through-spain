@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "September 20 (2)"
+date:   2016-09-20 19:53:00 +0100
+direction: rtl
+---
+
+![September 20 (2)]({{ site.url | prepend:site.baseurl }}/assets/images/september-20-2.jpg)
+
+عنوان حلقة اليوم، اليوم الخير في المسلمين وجدت، وفي غيرهم أقل منه أصبت.
+
+بعد ساعة ونصف أضعها، هل منكم من ينتظرها؟
