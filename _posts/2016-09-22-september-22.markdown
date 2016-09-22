@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "September 22"
+date:   2016-09-22 17:03:00 +0100
+direction: rtl
+---
+
+![September 22)]({{ site.url | prepend:site.baseurl }}/assets/images/september-22.jpg)
+
+صورة أخيرة قبل الدخول لفرنسا، لله الحمد والشكر، وصلت لفرنسا بدراجتي بعد كل صعوبات الطريق، اللهم لك الحمد..
+
+بدموع فرح أكتب هذا.. لقد وصلت!
