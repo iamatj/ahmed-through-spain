@@ -5,7 +5,7 @@ date:   2016-09-21 22:02:00 +0100
 direction: rtl
 ---
 
-![September 21)]({{ site.url | prepend:site.baseurl }}/assets/images/september-21.jpg)
+![September 21]({{ site.url | prepend:site.baseurl }}/assets/images/september-21.jpg)
 
 اليوم لم يكن يوما عاديا، اليوم كان من أبرز أيام رحلتي، يوم آخر يؤكد لي أنني لست بكاتب قصتي. يوم جميل بمره وحلوه. يومي السابع عشر.
 
