@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "September 26"
+date:   2016-09-26 14:23:00 +0100
+direction: rtl
+---
+
+![September 26]({{ site.url | prepend:site.baseurl }}/assets/images/september-26.jpg)
+
+مع صديقي نبيل، قرب الجسر الجديد
+
+قصة البارحة أضعها إن شاء الله بعد ساعة، أعتذر عن التأخير.
