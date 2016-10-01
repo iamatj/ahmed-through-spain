@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "September 28"
+date:   2016-09-28 15:16:00 +0100
+direction: rtl
+---
+
+![September 28]({{ site.url | prepend:site.baseurl }}/assets/images/september-28.jpg)
+
+لست من عشاق الكرة، لكني من معجبي هذا اللاعب..
+
+من هو ؟
+
+(حين وضعت السؤال لم أنتبه للإسم الواضح الكبير :D)
+
+مع دراجتي، في الكامب نو
